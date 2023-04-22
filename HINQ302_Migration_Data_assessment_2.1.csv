@@ -639,7 +639,7 @@ unique_identifier,city_origin,ship_name,travel_class,first_name,second_name,age_
 636,southampton,britannic,third,alyssa,herman,74,20/04/1912,20,4,1912,female,other,none,new york,3,,
 637,southampton,britannic,second,oscar,kim,72,17/04/1912,17,4,1912,male,hispanic,miner,new york,4,,
 638,liverpool,baltic,second,adesuwa,ned,5,17/04/1912,17,4,1912,male,asian,tailor,new york,4,,
-639,southampton,titanic,first,k mckenna,murray,91,19/04/1912,19,4,1912,female,black,blacksmith,new york,4,,
+639,southampton,titanic,first,mckenna,murray,91,19/04/1912,19,4,1912,female,black,blacksmith,new york,4,,
 640,southampton,olympic,second,nawfal,al-yasin,37,15/04/1912,15,4,1912,male,white,none,new york,1,,
 641,liverpool,aquitania,first,camron,paschal,6,16/04/1912,16,4,1912,female,asian,none,new york,3,,
 642,liverpool,carpathia,third,cassidy,mullins,53,19/04/1912,19,4,1912,male,black,baker,new york,2,,
