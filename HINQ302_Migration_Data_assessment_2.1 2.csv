@@ -1,4 +1,3 @@
-HINQ302_Migration_Data_assessment_2.1
 HINQ302_Migration_Data_assessment_2.1,,,,,,,,,,,,,,,,,
 unique_identifier,city_origin,ship_name,travel_class,first_name,second_name,age_years,date_disembarked,day_disembarked,month_disembarked,year_disembarked,gender-type,race_group,occupation_type,destination_city,deck_number,,comment_data_and_sources
 0,southampton,olympic,third,lynzie,medina,10,17/04/1912,17,4,1912,male,hispanic,weaver,new york,5,,
